@@ -5,20 +5,20 @@ Collection of Material for Ethics in Data Science
 Ben Green "Data Science as Political Action", <a>https://scholar.harvard.edu/bgreen/publications/data-science-political-action-grounding-data-science-politics-justice</a>
 
 ## Books
-Cathy O'Neil <it>Weapons of Math Destruction</it>
+Cathy O'Neil *Weapons of Math Destruction*
 
-Sara Wachter-Boettcher <it>Technically Wrong: Sexist Apps, Biased Algorithms, and other Threats of Toxic Tech"
+Sara Wachter-Boettcher *Technically Wrong: Sexist Apps, Biased Algorithms, and other Threats of Toxic Tech*
 
-Ibram X. Kendi <it>Stamped from the beginning</it>
+Ibram X. Kendi *Stamped from the beginning*
 
-Rebecca Skloot <it>The immortal life of Henrietta Lacks</it>
+Rebecca Skloot *The immortal life of Henrietta Lacks*
 
-Karl Popper <it>The open society and its enemies</it>
+Karl Popper *The open society and its enemies*
 
-Peter Singer <it>Practical Ethics</it>
+Peter Singer *Practical Ethics*
 
 ## Historic Books
 
-Leslie Stephen <it>The Science of Ethics</it>
+Leslie Stephen *The Science of Ethics*
 
-Michel de Montaigne <it>Essais</it>
+Michel de Montaigne *Essais*
